@@ -4,6 +4,5 @@ public class Main {
         int bonus = 20;
         int mili = price / bonus;
         System.out.println(mili);
-
     }
 }
